@@ -1,0 +1,1 @@
+# 2.5-Explicar-que-es-el-compilardor-as-enlazar-ls-o-gcc-y-finalmente-depurar-gdb--q-
